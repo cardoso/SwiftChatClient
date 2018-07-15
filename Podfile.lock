@@ -1,0 +1,18 @@
+PODS:
+  - SwiftChatCore (0.1.0):
+    - SwiftChatCore/Models (= 0.1.0)
+  - SwiftChatCore/Models (0.1.0)
+
+DEPENDENCIES:
+  - SwiftChatCore (from `../SwiftChatCore`)
+
+EXTERNAL SOURCES:
+  SwiftChatCore:
+    :path: "../SwiftChatCore"
+
+SPEC CHECKSUMS:
+  SwiftChatCore: 0439b33b2a19a5e1dc0d73db12863b171c46d846
+
+PODFILE CHECKSUM: 0c9976c394bc4d8e297bc149f7a51adeeab9a982
+
+COCOAPODS: 1.5.3
